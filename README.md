@@ -61,7 +61,7 @@ NumberOfLogicalProcessors=12
 ## Usage
 
 1. **Download/Clone the Repository**  
-   - [Clone the repo](https://github.com/yourusername/WinSysReport.git) or [download it as a zip](https://github.com/yourusername/WinSysReport/archive/refs/heads/main.zip).
+   - [Clone the repo](https://github.com/DanielNoohi/WinSysReport.git) or [download it as a zip](https://github.com/DanielNoohi/WinSysReport/archive/refs/heads/main.zip).
 
 2. **Locate the Batch File**  
    - Inside the repository, find the script: `SystemReport.bat`.
